@@ -1,0 +1,7 @@
+.class public interface abstract La5/d;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements La5/i;
+.implements La5/h;
